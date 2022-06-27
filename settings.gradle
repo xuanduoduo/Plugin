@@ -1,0 +1,3 @@
+rootProject.name = "Plugin"
+include ':app'
+include ':hook'
